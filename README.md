@@ -52,9 +52,9 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=simoneloop&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneloop&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img src="https://img.shields.io/github/followers/simoneloop?style=for-the-badge&logo=github&logoColor=white&color=1C3C3C&labelColor=0d1117" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=simoneloop&style=for-the-badge&color=1C3C3C&label=Profile+views" alt="profile views"/>
 </p>
