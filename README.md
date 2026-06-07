@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Simone 👋</h1>
+<h1 align="center">Hi, I'm Simonpaolo 👋</h1>
 <h3 align="center">Generative AI Engineer · Machine Learning & Data Science · Full-Stack Developer</h3>
 
 <p align="center">
