@@ -14,6 +14,8 @@
 
 🧠 **Generative AI Engineer @ [Zupit](https://www.zupit.it)** — I architect and ship GenAI systems: **LLM agents**, **RAG pipelines**, multi-agent orchestration with **LangGraph**, and model fine-tuning / inference on the **Hugging Face** ecosystem — both in-house and for external clients.
 
+🎓 **Bachelor's Degree in Computer Engineering** — Università della Calabria
+
 🎓 **Master in Artificial Intelligence & Data Science** — Università della Calabria
 
 🏅 **IBM Data Science** Professional Certificate (12 courses)
