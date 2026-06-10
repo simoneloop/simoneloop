@@ -26,7 +26,7 @@
 
 ### 🛠️ Tech I work with
 
-**GenAI / LLM** — LangGraph · Hugging Face Transformers · RAG · FAISS · Embeddings
+**GenAI / LLM** — LangGraph · Hugging Face Transformers · RAG · FAISS · Embeddings · **Claude API** · **Claude Code**
 **ML / Data Science** — PyTorch · scikit-learn · pandas · NumPy · PySpark · YOLO · Matplotlib
 **Languages** — Python · Java · C# · Dart
 **Full-stack** — Angular · .NET · Spring Boot · Flutter · .NET MAUI
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -48,6 +49,7 @@
 
 ### 🚀 Featured projects
 
+- 🛠️ **[skills](https://github.com/simoneloop/skills)** — open-source marketplace of Claude Code skills: reusable AI agent workflows for Etsy uploads, GitHub glow-ups, user stories, and more.
 - 🧬 **[Deep Learning on Images & Text](https://github.com/simoneloop/machine_deep_learning_image_text)** — image classification + sentiment analysis with classic ML, **CNNs**, **LSTMs** and autoencoder-based **anomaly detection**.
 - ⚡ **E-TREND** — cloud-distributed tool analyzing electricity trends across **40+ European countries** (PySpark + web scraping). → [engine](https://github.com/simoneloop/BigData) · [view](https://github.com/simoneloop/BigData-view)
 - 🚀 **[IBM Data Science Capstone — SpaceX](https://github.com/simoneloop/IBM-Data-Science-Capstone-SpaceX)** — predicting Falcon 9 first-stage landing success.
