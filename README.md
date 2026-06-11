@@ -50,7 +50,7 @@
 ### 🚀 Featured projects
 
 - 🛠️ **[skills](https://github.com/simoneloop/skills)** — open-source marketplace of Claude Code skills: reusable AI agent workflows for Etsy uploads, GitHub glow-ups, user stories, and more.
-- 🤖 **[LUMIA Studio](https://github.com/manant74/unical)** *(contributor)* — multi-agent knowledge engineering platform built on the **BDI cognitive framework** (Beliefs–Desires–Intentions). RAG pipeline + 6 specialized agents (Streamlit · ChromaDB · Gemini/GPT-5).
+- 🤖 **[LUMIA Studio](https://github.com/manant74/unical)** — multi-agent knowledge engineering platform built on the **BDI cognitive framework** (Beliefs–Desires–Intentions). RAG pipeline + 6 specialized agents (Streamlit · ChromaDB · Gemini/GPT-5).
 - 🧬 **[Deep Learning on Images & Text](https://github.com/simoneloop/machine_deep_learning_image_text)** — image classification + sentiment analysis with classic ML, **CNNs**, **LSTMs** and autoencoder-based **anomaly detection**.
 - ⚡ **E-TREND** — cloud-distributed tool analyzing electricity trends across **40+ European countries** (PySpark + web scraping). → [engine](https://github.com/simoneloop/BigData) · [view](https://github.com/simoneloop/BigData-view)
 - 🚀 **[IBM Data Science Capstone — SpaceX](https://github.com/simoneloop/IBM-Data-Science-Capstone-SpaceX)** — predicting Falcon 9 first-stage landing success.
