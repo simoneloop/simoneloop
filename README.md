@@ -55,7 +55,7 @@
 - ⚡ **E-TREND** — cloud-distributed tool analyzing electricity trends across **40+ European countries** (PySpark + web scraping). → [engine](https://github.com/simoneloop/BigData) · [view](https://github.com/simoneloop/BigData-view)
 - 🚀 **[IBM Data Science Capstone — SpaceX](https://github.com/simoneloop/IBM-Data-Science-Capstone-SpaceX)** — predicting Falcon 9 first-stage landing success.
 - 🌐 **Live work** — [e-archeo.it](https://e-archeo.it) (CNR VR archaeology platform) · [app.codex4d.it](https://app.codex4d.it) (3D-model web annotation tool)
-
+- tesi magistrale sul creare coscienza llm tramite training specifico
 ---
 
 ### 📊 GitHub
